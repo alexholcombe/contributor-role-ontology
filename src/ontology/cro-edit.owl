@@ -663,7 +663,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/CRO_0000072> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/CRO_0000073> (standards development role)
 
-AnnotationAssertion(Annotation(<http://purl.obolibrary.org/obo/IAO_0000119> "https://en.wikipedia.org/wiki/Technical_standard") <http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/CRO_0000073> "The process of creating standards, which aare an established norm or requirement in regard to technical systems. It is usually a formal document that establishes uniform engineering or technical criteria, methods, processes, and practices.")
+AnnotationAssertion(Annotation(<http://purl.obolibrary.org/obo/IAO_0000119> "https://en.wikipedia.org/wiki/Technical_standard") <http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/CRO_0000073> "The process of creating standards, which are an established norm or requirement in regard to technical systems. It is usually a formal document that establishes uniform engineering or technical criteria, methods, processes, and practices.")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000118> <http://purl.obolibrary.org/obo/CRO_0000073> "standard development role")
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/CRO_0000073> <http://orcid.org/0000-0001-5208-3432>)
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/date> <http://purl.obolibrary.org/obo/CRO_0000073> "2018-10-01T20:33:58Z"^^xsd:dateTime)
